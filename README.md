@@ -28,4 +28,7 @@ The bot strictly answers legal queries and rejects non-legal questions.
 ---
 
 ## 🔑 Setup
+use your personal api key from groq api which is free for everyone.
+install ollama
+
 
